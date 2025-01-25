@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.fundo {
+    height: 100px;
+    background-color: rgb(73, 77, 78);
+    margin: 0px
+}
+
+td.link {
+    text-align: center;
+}
+
+#tab1 {
+
+    padding-top: 8px;
+    padding-bottom: 8px;
+
+    padding-left: 0;
+    padding-right: 0;
+
+    background-color: rgb(20, 19, 19);
+    color: white;
+}
+
+div#quadrado {
+    height: 200px;
+    width: 200px;
+    background-color: rgb(8, 6, 6);
+}
+
+td#destaques {
+    padding-top: 8px;
+    padding-bottom: 8px;
+
+    padding-left: 0;
+    padding-right: 0;
+    color: white;
+    background-color: rgb(71, 66, 66);
+}
+
+td#layout {
+    color: white;
+    background-color: rgb(145, 143, 143);
+}
+
+td#txt3 {
+    background-color: rgb(77, 77, 77);
+}
+td#txt4{
+
+    background-color: rgb(104, 103, 103);
+}
